@@ -1,0 +1,9 @@
+java-toolbox:
+  download-url: 'http://my-repo-server.my-intra.net'
+  oracle-jdk:
+    version: '7u80'
+  apache-ant:
+    version: '1.10.1'
+  apache-maven:
+    version: '3.5.0'
+
